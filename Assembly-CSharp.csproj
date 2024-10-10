@@ -63,8 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Sounds\AudioControl.cs" />
     <Compile Include="Assets\Scripts\HUD\HUDController.cs" />
+    <Compile Include="Assets\Scripts\Enemy\AnimController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerItens.cs" />
     <Compile Include="Assets\Scripts\Sounds\ActorSFX.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
     <Compile Include="Assets\Scripts\Farm\Casting.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAnim.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
