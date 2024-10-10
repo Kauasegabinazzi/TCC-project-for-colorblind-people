@@ -65,8 +65,11 @@
     <Compile Include="Assets\Scripts\HUD\HUDController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerItens.cs" />
     <Compile Include="Assets\Scripts\Sounds\ActorSFX.cs" />
+    <Compile Include="Assets\Scripts\Farm\Casting.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAnim.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
+    <Compile Include="Assets\Scripts\Farm\Water.cs" />
+    <Compile Include="Assets\Scripts\Farm\SlotFarm.cs" />
     <Compile Include="Assets\Scripts\Sounds\AudioManager.cs" />
   </ItemGroup>
   <ItemGroup>
