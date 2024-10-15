@@ -61,7 +61,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Dialog\NPC\NPC_Dialogue.cs" />
     <Compile Include="Assets\Scripts\Building\House.cs" />
+    <Compile Include="Assets\Scripts\Dialog\NPC\NPC.cs" />
     <Compile Include="Assets\Scripts\Sounds\AudioControl.cs" />
     <Compile Include="Assets\Scripts\Dialog\DialogueSettings.cs" />
     <Compile Include="Assets\Scripts\HUD\HUDController.cs" />
